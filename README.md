@@ -5,7 +5,7 @@ Source files for APCSP Projects
 
 This repository contains the source code as well as, in some cases, a selection of precompiled binaries pertaining to projects I have completed in my APCSP class.
 
-For licensing information, please consult LICENSE.md.
+For licensing information, please consult [LICENSE.md](./LICENSE.md).
 
 ---
 

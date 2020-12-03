@@ -2,9 +2,9 @@
 Click [here](/README.md) to go back to the main APCSP repo.
 
 ## Downloads
-Windows and Linux users on 64-bit or 32-bit machines can find pre-compiled binaries in [`./bin/README.md`](./bin/). Installation instructions are avaliable for both Windows and Linux users. Windows users also have the option of using an installer. Any users running macOS, or using a different instruction set such as ARM, must compile the application from source.
+Windows and Linux users on 64-bit or 32-bit machines can find pre-compiled binaries in [`./bin/`](./bin/README.md). Installation instructions are avaliable for both Windows and Linux users. Windows users also have the option of using an installer. Any users running macOS, or using a different instruction set such as ARM, must compile the application from source.
 
-Users wishing to compile the application themselves will find the C# source code as well as compilation instructions in [`./src/README.md`](./src/).
+Users wishing to compile the application themselves will find the C# source code as well as compilation instructions in [`./src/`](./src/README.md).
 
 [What are binaries? What is source code? What does it mean to compile?](/README.md#types-of-downloads)
 

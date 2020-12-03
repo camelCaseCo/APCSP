@@ -17,12 +17,12 @@ Click [here](./Unit-4-win-x86-64-installer.exe) to download the 64-bit installer
 Click [here](./Unit-4-win-x86-installer.exe) to download the 32-bit installer.  
 Click [here](#win-installer) for installation instructions.
 
-### .NET-Dependent Binaries ([What is this?](#dotnet-dependency))
+### .NET-Dependent Binaries ([What is this?](/README.md#dotnet-dependency))
 Click [here](./Unit-4-win-x86-64-dotnet.exe) to download the 64-bit pre-compiled .NET-dependent binary.  
 Click [here](./Unit-4-win-x86-dotnet.exe) to download the 32-bit pre-compiled .NET-Dependent binary.  
 Click [here](#win-install-dotnet) for installation instructions.
 
-### Standalone Binaries ([What is this?](#dotnet-dependency))
+### Standalone Binaries ([What is this?](/README.md#dotnet-dependency))
 Click [here](./Unit-4-win-x86-64-standalone.exe) to download the 64-bit pre-compiled standalone binary.  
 Click [here](./Unit-4-win-x86-standalone.exe) to download the 32-bit pre-compiled standalone binary.  
 Click [here](#win-install-standalone) for installation instructions.
@@ -30,12 +30,12 @@ Click [here](#win-install-standalone) for installation instructions.
 ---
 
 ## Linux Users
-### .NET-Dependent Binaries ([What is this?](#dotnet-dependency))
+### .NET-Dependent Binaries ([What is this?](/README.md#dotnet-dependency))
 Click [here](./Unit-4-linux-x86-64-dotnet) to download the 64-bit pre-compiled .NET-dependent binary.  
 Click [here](./Unit-4-linux-x86-dotnet) to download the 32-bit pre-compiled .NET-dependent binary.  
 Click [here](#linux-install-dotnet) for installation instructions.
 
-### Standalone Binaries ([What is this?](#dotnet-dependency))
+### Standalone Binaries ([What is this?](/README.md#dotnet-dependency))
 Click [here](./Unit-4-linux-x86-64-standalone) to download the 64-bit pre-compiled standalone binary.  
 Click [here](./Unit-4-linux-x86-standalone) to download the 32-bit pre-compiled standalone binary.  
 Click [here](#linux-install-standalone) for installation instructinons.
@@ -117,4 +117,4 @@ Follow the instructions at [this](https://docs.microsoft.com/en-us/dotnet/core/i
 
 ---
 
-[Back to Top](#top)
+### [Back to Top](#top)
